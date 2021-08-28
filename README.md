@@ -1,4 +1,4 @@
 # API-teste
 
-#install dependeces:
+#install dependencies:
   -  pip install -r requirements.txt
